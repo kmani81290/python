@@ -1,0 +1,26 @@
+pre-requist
+1. pychorm
+2. boto3 Module
+3. Aws console
+
+----------------------
+
+Go to Pychorm
+
+Step: 1
+go to create a new python file
+
+Step: 2
+Go to the Terminal
+install modules in pychorm --
+   #pip install boto3
+   #pip install awscli
+ 
+Configure AWS in a pychorm (Root User)
+   #aws configure --profile root
+   
+Output:
+AWS Access Key ID [None]: AKIAJCSALFK2FJXYBJMQ
+AWS Secret Access Key [None]: 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
+Default region name [None]: us-east-1
+Default output format [None]: json
