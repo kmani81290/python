@@ -1,0 +1,7 @@
+install python from windows store 
+open any folder from cmd prompt
+then
+python -m http.server     ---------default port will asig has 8000
+change port number
+python -m http.server 9999  --------  for downloads
+python -m http.server 8888 ---------- for documents
