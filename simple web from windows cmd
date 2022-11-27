@@ -5,3 +5,6 @@ python -m http.server     ---------default port will asig has 8000
 change port number
 python -m http.server 9999  --------  for downloads
 python -m http.server 8888 ---------- for documents
+
+binding with ip number
+python -m http.server 8899  -b 192.168.0.105
